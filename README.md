@@ -1,5 +1,4 @@
 
-```markdown
 # ATM Interface Project
 
 ![ATM Interface](https://github.com/bledibuduri/ATM-Interface-/blob/main/ATM%20Interface.png)
@@ -57,6 +56,6 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, modify, and use this project for educational purposes or as a starting point for your Java projects. Happy coding!
-```
+
 
 This version provides a brief overview of the project with minimal details. Feel free to adjust as needed.
