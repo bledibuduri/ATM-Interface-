@@ -1,5 +1,3 @@
-Certainly! Here's a modified version without the acknowledgment:
-
 # ATM Interface Project
 
 ![ATM Interface](https://github.com/bledibuduri/ATM-Interface-/blob/main/ATM%20Interface.png)
