@@ -1,18 +1,17 @@
+
+```markdown
 # ATM Interface Project
 
 ![ATM Interface](https://github.com/bledibuduri/ATM-Interface-/blob/main/ATM%20Interface.png)
 
 ## Overview
 
-This project was developed as a seminar project during university studies to showcase creativity in the Java programming language. The ATM Interface project simulates a basic Automated Teller Machine (ATM) system with essential functionalities.
+This Java project represents an ATM Interface developed for a university seminar. It includes the following key components:
 
-## Features
-
-- **User Authentication:** Secure login system requiring a valid account number and PIN.
-- **Account Balance Inquiry:** Check the available balance in the linked account.
-- **Cash Withdrawal:** Ability to withdraw funds from the account.
-- **Deposit Functionality:** Deposit funds into the account.
-- **Transaction History:** View a summary of recent transactions.
+- Main method for running the application (`ATMInterface.java`).
+- Login page implemented as a window.
+- Transaction functionalities.
+- User and Passwords system.
 
 ## Getting Started
 
@@ -58,3 +57,6 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, modify, and use this project for educational purposes or as a starting point for your Java projects. Happy coding!
+```
+
+This version provides a brief overview of the project with minimal details. Feel free to adjust as needed.
